@@ -1,7 +1,9 @@
 # HW - {Friend Finder - Node and Express Servers}
 
 ## Description
-A "FriendFinder" application -- similar to a dating app. This full-stack site will take in results from the users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
+A "FriendFinder" application -- a full-stack site, similar to a dating app will take in results from the
+users' surveys, then compare their answers with those from other users. The app will then display the name and
+picture of the user with the best overall match. 
 
 ![Homescreen](https://github.com/nicolechowt/FriendFinder/blob/master/Screenshots/home.jpg)
 
