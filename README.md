@@ -1,10 +1,9 @@
 # HW - {Friend Finder - Node and Express Servers}
 
 ## Description
-#### A "FriendFinder" application -- similar to a dating app. This full-stack site will take in results from the users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
+A "FriendFinder" application -- similar to a dating app. This full-stack site will take in results from the users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
 
-
-
+![Homescreen]()
 
 ## Requirements
 #### The completed application must meet the following criteria:
@@ -13,10 +12,10 @@
 
 2. Post the user's input to API.
 
-3. Ability to retrieve any user's data by visiting [website]/userName.
+3. Ability to retrieve any user's data by visiting [website]/[userName].
 
 4. Compares user's answers against other users in the system and return the best match.
-
+![Results]()
 
 ## Technologies Used
 -JavaScript
