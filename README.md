@@ -19,13 +19,20 @@ A "FriendFinder" application -- similar to a dating app. This full-stack site wi
 
 ## Technologies Used
 -JavaScript
+
 -jQuery
+
 -bootstrap
+
 -AJAX
+
 -Node.js
+
 -Express
+
 -Heroku
 
 ## npm Modules Used
 -express
+
 -body-parser
