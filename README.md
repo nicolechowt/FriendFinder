@@ -3,7 +3,7 @@
 ## Description
 A "FriendFinder" application -- similar to a dating app. This full-stack site will take in results from the users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
 
-![Homescreen]()
+![Homescreen](https://github.com/nicolechowt/FriendFinder/blob/master/Screenshots/home.jpg)
 
 ## Requirements
 #### The completed application must meet the following criteria:
@@ -15,7 +15,7 @@ A "FriendFinder" application -- similar to a dating app. This full-stack site wi
 3. Ability to retrieve any user's data by visiting [website]/[userName].
 
 4. Compares user's answers against other users in the system and return the best match.
-![Results]()
+![Results](https://github.com/nicolechowt/FriendFinder/blob/master/Screenshots/Results.jpg)
 
 ## Technologies Used
 -JavaScript
