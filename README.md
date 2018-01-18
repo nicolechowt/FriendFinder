@@ -5,6 +5,8 @@ A "FriendFinder" application -- a full-stack site, similar to a dating app will 
 users' surveys, then compare their answers with those from other users. The app will then display the name and
 picture of the user with the best overall match. 
 
+[Live link](https://nicoles-friend-finder.herokuapp.com/)
+
 ![Homescreen](https://github.com/nicolechowt/FriendFinder/blob/master/Screenshots/home.jpg)
 
 ## Requirements
